@@ -14,8 +14,8 @@
 					<li class="nav-item"><a class="nav-link" href="disciplinas.jsp">
 						Disciplinas Em Curso</a>
 					</li>
-					<li class="nav-item"><a class="nav-link" href="login.jsp">
-						Realizar Login</a>
+					<li class="nav-item"><span id="login"><a class="nav-link" href="login.jsp">
+						Realizar Login</a></span>
 					</li>
 				</ul>
 			</div>
