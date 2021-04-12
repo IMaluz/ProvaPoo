@@ -56,7 +56,7 @@
 			</div>
 		</section>
 	</div>
-	<%@include file="WEB-INF/jspf/linksJS.jsp" %>
+	<%@include file="WEB-INF/jspf/linksJS.jsp"%>
 	<script type="text/javascript" src="script/script.js"></script>
 </body>
 </html>
